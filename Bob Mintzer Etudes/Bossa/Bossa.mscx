@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.10">
-  <programVersion>4.1.1</programVersion>
-  <programRevision></programRevision>
+  <programVersion>4.1.0</programVersion>
+  <programRevision>2e3a93a</programRevision>
   <Score>
     <Division>480</Division>
     <showInvisible>1</showInvisible>
@@ -86,9 +86,6 @@
             <root>15</root>
             <name>-7</name>
             </Harmony>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -100,9 +97,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -111,9 +105,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -122,9 +113,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -133,9 +121,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -147,9 +132,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -172,9 +154,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -191,9 +170,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F♯</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -205,9 +181,6 @@
               <tpc2>20</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -216,9 +189,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -230,9 +200,6 @@
               <tpc2>10</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -241,9 +208,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -266,9 +230,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>A♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -280,9 +241,6 @@
               <tpc2>10</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -295,9 +253,6 @@
             <root>12</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>E♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -306,9 +261,6 @@
               <tpc2>11</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -320,9 +272,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -331,9 +280,6 @@
               <tpc2>13</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>E♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -353,9 +299,6 @@
             <root>11</root>
             <name>^7</name>
             </Harmony>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -364,9 +307,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -375,9 +315,6 @@
               <tpc2>13</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -389,9 +326,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -400,9 +334,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -419,9 +350,6 @@
             <root>11</root>
             <name>9</name>
             </Harmony>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -431,9 +359,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -451,9 +376,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -480,9 +402,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>F♯</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -494,9 +413,6 @@
               <tpc2>20</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -505,9 +421,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -516,9 +429,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>E♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -530,9 +440,6 @@
               <tpc2>11</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -541,9 +448,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -560,9 +464,6 @@
             <root>15</root>
             <name>-7</name>
             </Harmony>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -571,9 +472,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -582,9 +480,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -593,9 +488,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -613,9 +505,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -631,9 +520,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -656,9 +542,6 @@
             <root>17</root>
             <name>0</name>
             </Harmony>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -677,9 +560,6 @@
             <root>16</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -691,9 +571,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -702,9 +579,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -734,9 +608,6 @@
             <root>15</root>
             <name>-13</name>
             </Harmony>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -756,9 +627,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -767,9 +635,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -782,9 +647,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -793,9 +655,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -804,9 +663,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -815,9 +671,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>E</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -829,9 +682,6 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -843,9 +693,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -868,9 +715,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -879,9 +723,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -894,9 +735,6 @@
             <root>12</root>
             <name>+7</name>
             </Harmony>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -905,9 +743,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -922,9 +757,6 @@
               <tpc2>9</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -933,9 +765,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -955,9 +784,6 @@
             <root>11</root>
             <name>^7</name>
             </Harmony>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -981,9 +807,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -992,9 +815,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1003,9 +823,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1014,9 +831,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>E♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1025,9 +839,6 @@
               <tpc2>11</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1036,9 +847,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1055,9 +863,6 @@
             <root>16</root>
             <name>7(#9)</name>
             </Harmony>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1066,9 +871,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F♯</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1083,9 +885,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -1097,9 +896,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1108,9 +904,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1137,9 +930,6 @@
             <root>15</root>
             <name>-7</name>
             </Harmony>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1157,9 +947,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1168,9 +955,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1179,9 +963,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1203,9 +984,6 @@
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -1217,9 +995,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -1242,9 +1017,6 @@
             <root>14</root>
             <name>-7</name>
             </Harmony>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1254,9 +1026,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>E♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1276,9 +1045,6 @@
             <root>12</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>F</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1287,9 +1053,6 @@
               <tpc2>13</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1298,9 +1061,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1309,9 +1069,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1335,9 +1092,6 @@
             <root>17</root>
             <name>0</name>
             </Harmony>
-          <StaffText>
-            <text>E♭</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1347,9 +1101,6 @@
               <tpc2>11</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1376,9 +1127,6 @@
             <root>15</root>
             <name>-7</name>
             </Harmony>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1387,9 +1135,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1398,9 +1143,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1409,9 +1151,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A♯</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1427,9 +1166,6 @@
             <root>15</root>
             <name>7(#9)</name>
             </Harmony>
-          <StaffText>
-            <text>B</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1441,9 +1177,6 @@
               <tpc2>19</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1463,9 +1196,6 @@
             <root>14</root>
             <name>-7</name>
             </Harmony>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1475,9 +1205,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>E♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1497,9 +1224,6 @@
             <root>19</root>
             <name>0</name>
             </Harmony>
-          <StaffText>
-            <text>F</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1508,9 +1232,6 @@
               <tpc2>13</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1519,9 +1240,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1533,9 +1251,6 @@
               <tpc2>19</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1551,9 +1266,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1562,9 +1274,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G♯</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -1590,9 +1299,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1601,9 +1307,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1612,9 +1315,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1626,9 +1326,6 @@
               <tpc2>9</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1637,9 +1334,6 @@
               <tpc2>13</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>E♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1648,9 +1342,6 @@
               <tpc2>11</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1683,9 +1374,6 @@
             <root>16</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -1723,9 +1411,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1734,9 +1419,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1745,9 +1427,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1756,9 +1435,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1767,9 +1443,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1782,9 +1455,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1793,9 +1463,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F♯</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1807,9 +1474,6 @@
               <tpc2>20</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1818,9 +1482,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1832,9 +1493,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1843,9 +1501,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1862,9 +1517,6 @@
             <root>13</root>
             <name>-7</name>
             </Harmony>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1873,9 +1525,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1884,9 +1533,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1895,9 +1541,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1910,9 +1553,6 @@
             <root>12</root>
             <name>13</name>
             </Harmony>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -1924,9 +1564,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1935,9 +1572,6 @@
               <tpc2>13</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1967,9 +1601,6 @@
             <root>11</root>
             <name>^7</name>
             </Harmony>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1997,9 +1628,6 @@
             <root>17</root>
             <name>0</name>
             </Harmony>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -2011,9 +1639,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2022,9 +1647,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>E♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2036,9 +1658,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2047,9 +1666,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -2069,9 +1685,6 @@
             <root>16</root>
             <name>+</name>
             </Harmony>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2081,9 +1694,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F♯</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2104,9 +1714,6 @@
               <tpc2>20</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F♯</text>
-            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -2139,9 +1746,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -2153,9 +1757,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2164,9 +1765,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2175,9 +1773,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2186,9 +1781,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2208,9 +1800,6 @@
             <root>14</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -2234,9 +1823,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2245,9 +1831,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2256,9 +1839,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2267,9 +1847,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2278,9 +1855,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2289,9 +1863,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2318,9 +1889,6 @@
             <root>14</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -2337,9 +1905,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>E</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2351,9 +1916,6 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2371,9 +1933,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -2403,9 +1962,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2414,9 +1970,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2425,9 +1978,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2436,9 +1986,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2447,9 +1994,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2469,9 +2013,6 @@
             <root>14</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2481,9 +2022,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2503,9 +2041,6 @@
             <root>15</root>
             <name>-7</name>
             </Harmony>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2514,9 +2049,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2525,9 +2057,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2536,9 +2065,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2547,9 +2073,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -2561,9 +2084,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2572,9 +2092,6 @@
               <tpc2>13</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2601,9 +2118,6 @@
             <root>14</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -2638,9 +2152,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -2652,9 +2163,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2663,9 +2171,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2674,9 +2179,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2685,9 +2187,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2707,9 +2206,6 @@
             <root>14</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2718,9 +2214,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2749,9 +2242,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2760,9 +2250,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2771,9 +2258,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2782,9 +2266,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2793,9 +2274,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2812,9 +2290,6 @@
             <root>14</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2823,9 +2298,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2851,9 +2323,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2862,9 +2331,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2873,9 +2339,6 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2884,9 +2347,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2895,9 +2355,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2906,9 +2363,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>F</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2928,9 +2382,6 @@
             <root>14</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>B♭</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2939,9 +2390,6 @@
               <tpc2>12</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2953,9 +2401,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <text>A</text>
-            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2965,9 +2410,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2994,9 +2436,6 @@
             <root>15</root>
             <name>-7</name>
             </Harmony>
-          <StaffText>
-            <text>G</text>
-            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -3013,9 +2452,6 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>E</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -3030,9 +2466,6 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>C</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -3041,9 +2474,6 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -3070,9 +2500,6 @@
             <root>14</root>
             <name>7</name>
             </Harmony>
-          <StaffText>
-            <text>D</text>
-            </StaffText>
           <Chord>
             <durationType>whole</durationType>
             <Note>

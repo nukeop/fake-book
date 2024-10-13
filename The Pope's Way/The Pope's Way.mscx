@@ -79,11 +79,11 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>3.333333</tempo>
+            <tempo>4.5</tempo>
             <followText>1</followText>
             <family>Edwin</family>
             <offset x="-3.64326" y="-6.32638"/>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 200</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 270</text>
             </Tempo>
           <Harmony>
             <root>14</root>
@@ -2824,10 +2824,6 @@
               <tpc2>19</tpc2>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            <name>7</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2845,6 +2841,10 @@
               <tpc2>14</tpc2>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            <name>7</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -4984,10 +4984,6 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            <name>7</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4996,6 +4992,10 @@
               <tpc2>16</tpc2>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            <name>7</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

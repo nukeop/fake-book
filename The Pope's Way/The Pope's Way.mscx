@@ -83,7 +83,7 @@
             <followText>1</followText>
             <family>Edwin</family>
             <offset x="-3.64326" y="-6.32638"/>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 270</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 270</text>
             </Tempo>
           <Harmony>
             <root>14</root>
@@ -287,9 +287,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -736,9 +736,12 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>59</pitch>
+              <tpc>7</tpc>
+              <tpc2>9</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1805,9 +1808,9 @@
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>

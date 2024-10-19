@@ -81,13 +81,20 @@
           <Tempo>
             <tempo>4.5</tempo>
             <followText>1</followText>
+            <minDistance>0.399798</minDistance>
             <family>Edwin</family>
-            <offset x="-3.64326" y="-6.32638"/>
+            <offset x="7.28652" y="-7.36867"/>
             <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 270</text>
             </Tempo>
           <Harmony>
             <root>14</root>
             </Harmony>
+          <SystemText>
+            <swing unit="eighth" ratio="60"/>
+            <style>tempo</style>
+            <offset x="-7.40037" y="-6.91067"/>
+            <text>Swing</text>
+            </SystemText>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>

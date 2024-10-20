@@ -956,7 +956,10 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
@@ -967,10 +970,7 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           <Rest>
             <durationType>eighth</durationType>
@@ -1186,7 +1186,10 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
@@ -1197,10 +1200,7 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           <Rest>
             <durationType>eighth</durationType>
@@ -1420,7 +1420,10 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
@@ -1431,22 +1434,25 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>half</durationType>
             </Rest>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
           <Harmony>
             <root>15</root>
             <name>7</name>
             </Harmony>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Harmony>
             <root>14</root>
             <name>6</name>
             </Harmony>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -1757,7 +1763,6 @@
             <name>6</name>
             </Harmony>
           <Rest>
-            <visible>0</visible>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1767,7 +1772,6 @@
         <stretch>5.4</stretch>
         <voice>
           <Rest>
-            <visible>0</visible>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1777,7 +1781,6 @@
         <stretch>5.4</stretch>
         <voice>
           <Rest>
-            <visible>0</visible>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1790,7 +1793,6 @@
           </LayoutBreak>
         <voice>
           <Rest>
-            <visible>0</visible>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1800,7 +1802,6 @@
         <stretch>5.4</stretch>
         <voice>
           <Rest>
-            <visible>0</visible>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1810,7 +1811,6 @@
         <stretch>5.5</stretch>
         <voice>
           <Rest>
-            <visible>0</visible>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1820,7 +1820,6 @@
         <stretch>5.4</stretch>
         <voice>
           <Rest>
-            <visible>0</visible>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
@@ -1830,7 +1829,6 @@
         <stretch>5.4</stretch>
         <voice>
           <Rest>
-            <visible>0</visible>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>

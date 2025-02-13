@@ -65,6 +65,7 @@
           </Text>
         </VBox>
       <Measure len="1/4">
+        <stretch>0.1</stretch>
         <voice>
           <KeySig>
             <concertKey>-4</concertKey>
@@ -271,7 +272,7 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0</stretch>
+        <stretch>0.3</stretch>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>

@@ -240,7 +240,7 @@
     <harmonyPlacement>0</harmonyPlacement>
     <romanNumeralPlacement>1</romanNumeralPlacement>
     <nashvilleNumberPlacement>0</nashvilleNumberPlacement>
-    <harmonyVoiceLiteral>1</harmonyVoiceLiteral>
+    <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
     <harmonyVoicing>0</harmonyVoicing>
     <harmonyDuration>0</harmonyDuration>
     <chordSymbolPosAbove x="0" y="-2.5"/>

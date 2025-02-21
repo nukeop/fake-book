@@ -210,12 +210,28 @@
           <RehearsalMark>
             <text>A</text>
             </RehearsalMark>
+          <Harmony>
+            <root>18</root>
+            <name>-</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
               <tpc2>18</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <acciaccatura/>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <tpc2>24</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -305,6 +321,21 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            </Harmony>
+          <Chord>
+            <durationType>eighth</durationType>
+            <acciaccatura/>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
+              <tpc2>12</tpc2>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -387,8 +418,23 @@
               </Number>
             </Tuplet>
           <Chord>
+            <durationType>eighth</durationType>
+            <acciaccatura/>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              <tpc2>22</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>65</pitch>
               <tpc>13</tpc>
               <tpc2>15</tpc2>
@@ -407,12 +453,28 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            <name>-</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
               <tpc2>18</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <acciaccatura/>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <tpc2>24</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -494,6 +556,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -540,6 +605,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -606,6 +674,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -615,6 +686,18 @@
               <text>3</text>
               </Number>
             </Tuplet>
+          <Chord>
+            <durationType>eighth</durationType>
+            <acciaccatura/>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <tpc2>24</tpc2>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -697,19 +780,43 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <acciaccatura/>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <tpc2>24</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
               <tpc2>19</tpc2>
-              <ChordLine>
-                <subtype>4</subtype>
-                </ChordLine>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            </Harmony>
+          <Chord>
+            <durationType>eighth</durationType>
+            <acciaccatura/>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
+              <tpc2>12</tpc2>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -833,8 +940,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>16</root>
-            <name>-</name>
+            <root>18</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -864,8 +970,23 @@
             <name>sus4</name>
             </Harmony>
           <Chord>
+            <durationType>eighth</durationType>
+            <acciaccatura/>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              <tpc2>11</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>62</pitch>
               <tpc>16</tpc>
               <tpc2>18</tpc2>
@@ -884,8 +1005,23 @@
       <Measure>
         <voice>
           <Chord>
+            <durationType>eighth</durationType>
+            <acciaccatura/>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>61</pitch>
+              <tpc>9</tpc>
+              <tpc2>11</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
             <durationType>whole</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>62</pitch>
               <tpc>16</tpc>
               <tpc2>18</tpc2>
@@ -895,6 +1031,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            <name>-</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>

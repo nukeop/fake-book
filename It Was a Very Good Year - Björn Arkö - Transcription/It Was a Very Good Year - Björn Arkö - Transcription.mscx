@@ -87,7 +87,7 @@
             <followText>1</followText>
             <family>Edwin</family>
             <offset x="8.5389" y="-4.88134"/>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 140</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 140</text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -181,17 +181,11 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>eighth</baseNote>
-            <Number>
-              <style>tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -199,7 +193,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -210,7 +204,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -220,7 +214,6 @@
               <tpc2>23</tpc2>
               </Note>
             </Chord>
-          <endTuplet/>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -701,7 +694,7 @@
         <voice>
           <Harmony>
             <root>18</root>
-            <name>6/9</name>
+            <name>^7</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -829,8 +822,8 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>17</root>
-            <name>13</name>
+            <root>16</root>
+            <name>^7</name>
             <base>18</base>
             </Harmony>
           <Chord>
@@ -972,7 +965,8 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>18</root>
+            <root>21</root>
+            <name>-7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -986,8 +980,8 @@
               </Note>
             </Chord>
           <Harmony>
-            <root>21</root>
-            <name>sus4</name>
+            <root>14</root>
+            <name>^7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -998,8 +992,8 @@
               </Note>
             </Chord>
           <Harmony>
-            <root>14</root>
-            <name>sus4</name>
+            <root>19</root>
+            <name>-7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1025,8 +1019,8 @@
               </Note>
             </Chord>
           <Harmony>
-            <root>19</root>
-            <name>sus4</name>
+            <root>20</root>
+            <name>-7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1073,7 +1067,7 @@
         <voice>
           <Harmony>
             <root>18</root>
-            <name>-</name>
+            <name>^7</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -1090,25 +1084,187 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+          <RehearsalMark>
+            <text>B</text>
+            </RehearsalMark>
+          <SystemText>
+            <swing unit="eighth" ratio="60"/>
+            <style>tempo</style>
+            <text>Swing</text>
+            </SystemText>
+          <Harmony>
+            <root>18</root>
+            <name>-11</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+          <TimeSig>
+            <sigN>7</sigN>
+            <sigD>8</sigD>
+            </TimeSig>
+          <SystemText>
+            <swing unit="" ratio="60"/>
+            <style>tempo</style>
+            <text>Straight</text>
+            </SystemText>
+          <Harmony>
+            <root>18</root>
+            <name>-11</name>
+            <base>15</base>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
+        <voice>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <SystemText>
+            <swing unit="eighth" ratio="60"/>
+            <style>tempo</style>
+            <text>Swing</text>
+            </SystemText>
+          <Harmony>
+            <root>15</root>
+            <name>^13</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>

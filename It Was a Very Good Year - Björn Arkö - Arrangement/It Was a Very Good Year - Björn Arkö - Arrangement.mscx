@@ -55,12 +55,6 @@
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
           </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <synti>Fluid</synti>
-          <midiPort>0</midiPort>
-          <midiChannel>3</midiChannel>
-          </Channel>
         </Instrument>
       </Part>
     <Part id="1">
@@ -1566,10 +1560,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>18</root>
-            <name>^7</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>6/8</duration>
@@ -1586,11 +1576,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>16</root>
-            <name>^7</name>
-            <base>18</base>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>6/8</duration>
@@ -1599,10 +1584,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>16</root>
-            <name>13#11</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>6/8</duration>
@@ -1611,34 +1592,18 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>21</root>
-            <name>-7</name>
-            </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <root>14</root>
-            <name>^7</name>
-            </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <root>19</root>
-            <name>-7</name>
-            </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <root>20</root>
-            <name>-7</name>
-            </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -1647,10 +1612,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>13</root>
-            <name>^7</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>6/8</duration>
@@ -1659,10 +1620,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>18</root>
-            <name>^7</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>6/8</duration>
@@ -2344,6 +2301,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            <name>^7</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2432,6 +2393,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>^7</name>
+            <base>18</base>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2479,6 +2445,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>13#11</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -2535,6 +2505,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>21</root>
+            <name>-7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -2547,6 +2521,10 @@
               <tpc2>22</tpc2>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            <name>^7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -2556,6 +2534,10 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
+          <Harmony>
+            <root>19</root>
+            <name>-7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -2565,6 +2547,10 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
+          <Harmony>
+            <root>20</root>
+            <name>-7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -2578,6 +2564,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            <name>^7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>

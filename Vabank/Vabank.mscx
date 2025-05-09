@@ -577,7 +577,7 @@
             <followText>1</followText>
             <eid>/Ewz3vwbwWH_+WWzK7x9blG</eid>
             <family>Edwin</family>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 180</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 180</text>
             </Tempo>
           <Harmony>
             <root>16</root>
@@ -753,9 +753,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>JDDY0/XN22B_J5oL7Q1pXfM</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -763,9 +763,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>eeZVdFISiDL_nmw30MZlMSH</eid>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -1085,9 +1085,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>b7zAwgT4lAC_dNJrSABSdCJ</eid>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>

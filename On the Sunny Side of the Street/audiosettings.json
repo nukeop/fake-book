@@ -115,7 +115,11 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "1"
+            "partId": "1",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         },
         {
             "in": {

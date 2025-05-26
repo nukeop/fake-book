@@ -388,7 +388,7 @@
     <keySigCourtesyBarlineMode>2</keySigCourtesyBarlineMode>
     <timeSigCourtesyBarlineMode>0</timeSigCourtesyBarlineMode>
     <swingRatio>60</swingRatio>
-    <swingUnit></swingUnit>
+    <swingUnit>eighth</swingUnit>
     <useStandardNoteNames>1</useStandardNoteNames>
     <useGermanNoteNames>0</useGermanNoteNames>
     <useFullGermanNoteNames>0</useFullGermanNoteNames>

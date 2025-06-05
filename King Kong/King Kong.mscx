@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.50">
-  <programVersion>4.5.0</programVersion>
-  <programRevision>7c55023</programRevision>
+  <programVersion>4.5.2</programVersion>
+  <programRevision>ac9d3bc</programRevision>
   <Score>
     <eid>zm45EESBLgL_lZm2ySERSqI</eid>
     <Division>480</Division>
@@ -93,7 +93,7 @@
             <eid>TvIjqSH3hWK_1Ltn7Td4KZD</eid>
             <family>Edwin</family>
             <offset x="-7.62808" y="-3.3011"/>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 220</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 220</text>
             </Tempo>
           <Harmony>
             <root>13</root>
@@ -945,9 +945,9 @@
             <durationType>half</durationType>
             <Note>
               <eid>RNPG+uQU/2F_dKDKGGYJDzJ</eid>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <tpc2>12</tpc2>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               <Spanner type="Glissando">
                 <prev>
                   <location>
@@ -973,9 +973,9 @@
             <durationType>half</durationType>
             <Note>
               <eid>EamFtHCQSiJ_kuHilm4E7sK</eid>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              <tpc2>13</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -1004,9 +1004,9 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <tpc2>12</tpc2>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -1032,9 +1032,9 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <tpc2>12</tpc2>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>

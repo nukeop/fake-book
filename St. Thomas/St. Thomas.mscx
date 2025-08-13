@@ -79,8 +79,8 @@
         <voice>
           <KeySig>
             <eid>I/KYy3PY0jF_ydtP45mtMnD</eid>
-            <concertKey>-2</concertKey>
-            <actualKey>0</actualKey>
+            <concertKey>0</concertKey>
+            <actualKey>2</actualKey>
             </KeySig>
           <TimeSig>
             <eid>jTYIYyl0etE_hehRPxJ/HQM</eid>
@@ -88,7 +88,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
-            <root>14</root>
+            <root>16</root>
             <name>6</name>
             <eid>XMrgtDNT24B_Uaoarl+6zZC</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -99,7 +99,7 @@
             <eid>WBGhrvL02QG_f/xvV0zsTbE</eid>
             <family>Edwin</family>
             <offset x="-8.7666" y="-3.75823"/>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 210</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 210</text>
             </Tempo>
           <Rest>
             <eid>ydvnOa13t9M_pjgP+FRpR6M</eid>
@@ -110,9 +110,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>7o9AAaWqlN_jV3cwgbszeJ</eid>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -120,9 +120,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>WBwNfs6eeXO_7yTt0gye+OB</eid>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -134,9 +134,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>M/H595huwXP_keZLwdCvKeL</eid>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <tpc2>21</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -148,9 +148,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>yR8Xn3HT2IE_INE6LsCJV6F</eid>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -159,7 +159,7 @@
         <eid>ZlxCX/I4BtC_3cdga7GezII</eid>
         <voice>
           <Harmony>
-            <root>18</root>
+            <root>20</root>
             <name>-7</name>
             <eid>gLUDrNxNZAN_3ZFTh2RblBP</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -173,27 +173,27 @@
               </Articulation>
             <Note>
               <eid>+om4nP0Fg/I_iPphYBDhxdO</eid>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
             <eid>UbyPxtozmFI_ISs0ArDrF1O</eid>
             <durationType>quarter</durationType>
             <Articulation>
-              <subtype>articStaccatoBelow</subtype>
+              <subtype>articStaccatoAbove</subtype>
               <eid>5VzsDuiADFC_ikSfvZAFYdC</eid>
               </Articulation>
             <Note>
               <eid>ipYLl0ugBJO_SICyQrKxbUI</eid>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>17</root>
+            <root>19</root>
             <name>7</name>
             <eid>QJXD+Mc0fjK_V4g6+ErW9uI</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -207,9 +207,9 @@
               </Articulation>
             <Note>
               <eid>H+YVs8x/45L_2FfY8fTaraP</eid>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -221,9 +221,9 @@
               </Articulation>
             <Note>
               <eid>iIrAmkFfnmN_wMKxaZFiUQH</eid>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -232,7 +232,7 @@
         <eid>vzhkx2Tq4iN_Zret3ZQzyWO</eid>
         <voice>
           <Harmony>
-            <root>16</root>
+            <root>18</root>
             <name>-7</name>
             <eid>NrVqgPuE/AM_kXA52R36YyO</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -246,9 +246,9 @@
               </Articulation>
             <Note>
               <eid>TfEYWAoDIwK_lV4T+lqSmjO</eid>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -260,13 +260,13 @@
               </Articulation>
             <Note>
               <eid>xmpq8o6GK1C_XH6JbB3p8EI</eid>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>15</root>
+            <root>17</root>
             <name>7</name>
             <eid>rz4fQuvhDzE_wiGsytPg7IH</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -280,13 +280,13 @@
               </Articulation>
             <Note>
               <eid>fkJE/99Mr0_bNf61k9A7WJ</eid>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <tpc2>21</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>14</root>
+            <root>16</root>
             <name>6</name>
             <eid>0/LkKLXRjqC_uTiydkCn35F</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -300,9 +300,9 @@
               </Articulation>
             <Note>
               <eid>uPVlx3tmlzK_v1lGQxtfK/F</eid>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -325,7 +325,7 @@
         <eid>TRdLtaaR9OB_dU4x8xVym/N</eid>
         <voice>
           <Harmony>
-            <root>14</root>
+            <root>16</root>
             <name>6</name>
             <eid>XT9H1Kotm4G_JCZIlDz0juJ</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -339,9 +339,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>Oqw2h+9bEGF_0fiHYXEkBeE</eid>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -349,9 +349,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>pJvRLb+iWJH_RtwiECLycpD</eid>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -363,9 +363,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>P7kUODRovCO_hzO4c7oBiFB</eid>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <tpc2>21</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -377,9 +377,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>xsqo2x+m8AO_/DlpBwRyyaP</eid>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -388,7 +388,7 @@
         <eid>+oryEgj89OP_tBUNkExEaPI</eid>
         <voice>
           <Harmony>
-            <root>18</root>
+            <root>20</root>
             <name>-7</name>
             <eid>0+U7uMhm08N_3f1zIPCWuTN</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -402,27 +402,27 @@
               </Articulation>
             <Note>
               <eid>xre4Fb7I+9E_7ZaLqiAVK0B</eid>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
             <eid>dNvtzX7WEvM_6nvxJRjAmpI</eid>
             <durationType>quarter</durationType>
             <Articulation>
-              <subtype>articStaccatoBelow</subtype>
+              <subtype>articStaccatoAbove</subtype>
               <eid>YtGzmivmlTL_L+7sKCfQpDL</eid>
               </Articulation>
             <Note>
               <eid>Dwiz713brDO_jI4f44X/fKJ</eid>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>17</root>
+            <root>19</root>
             <name>7</name>
             <eid>QW2yrzoiKvG_e/kUfDk7ovC</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -436,9 +436,9 @@
               </Articulation>
             <Note>
               <eid>Ha9yWWmSvZC_YUs1kqrMnFP</eid>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -450,9 +450,9 @@
               </Articulation>
             <Note>
               <eid>4rN8wNT98DN_SJ6LeahBpbE</eid>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -461,7 +461,7 @@
         <eid>sw1VuoqrB6N_QiaxEdC6ST</eid>
         <voice>
           <Harmony>
-            <root>16</root>
+            <root>18</root>
             <name>-7</name>
             <eid>DSbVxdhH/2K_IboXTEg57vG</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -475,9 +475,9 @@
               </Articulation>
             <Note>
               <eid>em9HV8hbSML_ElD1anQoDEH</eid>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -489,13 +489,13 @@
               </Articulation>
             <Note>
               <eid>V3pZtlLDV0F_+CaUHQxdWDP</eid>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>15</root>
+            <root>17</root>
             <name>7</name>
             <eid>kBKA/qGcujN_wSUedtgyWSG</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -509,13 +509,13 @@
               </Articulation>
             <Note>
               <eid>d7ndTasBkY_ngX4VZkW5hI</eid>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <tpc2>21</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>14</root>
+            <root>16</root>
             <name>6</name>
             <eid>qNmyfZL5iEN_ut5FtcaOI/J</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -525,9 +525,9 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>v47xkxjam9_Pr+wakAQtwL</eid>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -550,7 +550,7 @@
         <eid>SVDwZQP9YC_hA0ruUN8sDB</eid>
         <voice>
           <Harmony>
-            <root>18</root>
+            <root>20</root>
             <name>07</name>
             <eid>E8ZZFfNJX9P_NpN/0eWaBdL</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -560,13 +560,13 @@
             <durationType>half</durationType>
             <Note>
               <eid>FRgm/1umtNC_9qKpeIlIxMF</eid>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>12</root>
+            <root>14</root>
             <name>7</name>
             <eid>yb7PhJ3An4E_u5AR5shWTeB</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -577,13 +577,13 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>IoSx2bcXSpM_QNtM7Zc7mYK</eid>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>17</root>
+            <root>19</root>
             <name>7</name>
             <eid>4UXFxR2V8BB_bxsS9np0HQC</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -593,9 +593,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>NzZGquq9pMO_dcfENGvNZCE</eid>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -614,7 +614,7 @@
         <eid>ZQbokZqrPkE_U1jcEfRdfHG</eid>
         <voice>
           <Harmony>
-            <root>16</root>
+            <root>18</root>
             <name>-7</name>
             <eid>IHzwcRpJSr_p7/TGl3EBxB</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -624,13 +624,13 @@
             <durationType>half</durationType>
             <Note>
               <eid>9FmqS+cQJfG_oDB/BB2/MyG</eid>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>10</root>
+            <root>12</root>
             <name>+7</name>
             <eid>JTeV0H40FwJ_veiXosTHdiC</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -641,13 +641,13 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>xalDV46Gss_OWlP11xAgaJ</eid>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>15</root>
+            <root>17</root>
             <name>7</name>
             <eid>rPXXiM27DXG_RkutcuBxMzI</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -657,9 +657,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>gALzy9krwUK_7QhLfLfvodB</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -681,7 +681,7 @@
         <eid>B7lEnffXST_fpG1KifEA2B</eid>
         <voice>
           <Harmony>
-            <root>14</root>
+            <root>16</root>
             <name>6</name>
             <eid>ehAXg88wnkB_UiY9JLVjOuO</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -691,15 +691,15 @@
             <durationType>half</durationType>
             <Note>
               <eid>loHLUnhpz0G_V0BemcPKR7O</eid>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>14</root>
+            <root>16</root>
             <name>7</name>
-            <base>18</base>
+            <base>20</base>
             <eid>mSSUQ8m/3OC_WZbV2I5mRzH</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
             </Harmony>
@@ -708,9 +708,9 @@
             <durationType>half</durationType>
             <Note>
               <eid>6t7hR/UBOqB_3oehsuAgM7M</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -719,7 +719,7 @@
         <eid>4Fl8O0THDYL_W9RyQdWtIlC</eid>
         <voice>
           <Harmony>
-            <root>13</root>
+            <root>15</root>
             <name>6</name>
             <eid>ZWCu/P+IYAE_XukAwpmog+O</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -730,13 +730,13 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>/YpkQ/naCSF_kGlyPSlngbC</eid>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>20</root>
+            <root>22</root>
             <name>o7</name>
             <eid>2XW5r08BrWN_xkFHybJT75O</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -756,9 +756,9 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -773,9 +773,9 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -784,9 +784,9 @@
         <eid>tKhvCgOY2iL_A3B7X8+aIT</eid>
         <voice>
           <Harmony>
-            <root>14</root>
+            <root>16</root>
             <name>6</name>
-            <base>15</base>
+            <base>17</base>
             <eid>2tVzcCIny4P_YMKk4cBIIXM</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
             </Harmony>
@@ -799,9 +799,9 @@
               </Articulation>
             <Note>
               <eid>43O8v4+GLSC_+03Y2/CKKtD</eid>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              <tpc2>15</tpc2>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -813,13 +813,13 @@
               </Articulation>
             <Note>
               <eid>djugDaHedBI_3nCeC5QVuRH</eid>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>15</root>
+            <root>17</root>
             <name>7</name>
             <eid>MhgQfxSZV8C_1fXMI+jj6QC</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -833,13 +833,13 @@
               </Articulation>
             <Note>
               <eid>bin0buW910_/r0pFejNy+G</eid>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <tpc2>19</tpc2>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <tpc2>21</tpc2>
               </Note>
             </Chord>
           <Harmony>
-            <root>14</root>
+            <root>16</root>
             <name>6</name>
             <eid>pM7B9tmxRCI_6xm3tvtZTYF</eid>
             <harmonyVoiceLiteral>0</harmonyVoiceLiteral>
@@ -853,9 +853,9 @@
               </Articulation>
             <Note>
               <eid>x+0Lu/q0eMI_FruLiTDy53C</eid>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              <tpc2>14</tpc2>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           </voice>

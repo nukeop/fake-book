@@ -60,7 +60,7 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "tenor-saxophone",
+            "instrumentId": "chord_symbols",
             "out": {
                 "auxSends": [
                     {
@@ -122,7 +122,7 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "chord_symbols",
+            "instrumentId": "tenor-saxophone",
             "out": {
                 "auxSends": [
                     {

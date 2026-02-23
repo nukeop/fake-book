@@ -101,7 +101,7 @@
             <followText>1</followText>
             <eid>nDsT3yl+7eN_Ur32wC6W9WH</eid>
             <family>Edwin</family>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 200</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 200</text>
             </Tempo>
           <RehearsalMark>
             <eid>8+UUvptmzFD_jaEZIfvfvEE</eid>
@@ -494,7 +494,7 @@
         <voice>
           <Harmony>
             <root>16</root>
-            <name>o</name>
+            <name>-</name>
             <eid>o9BE1TXfv9E_oLyic5zIabN</eid>
             </Harmony>
           <Chord>
@@ -852,7 +852,7 @@
             </Chord>
           <Harmony>
             <root>19</root>
-            <name>-6</name>
+            <name>0</name>
             <eid>Wg9FhmuvZQN_XSAbRwVaVnC</eid>
             </Harmony>
           <Chord>
@@ -973,8 +973,8 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>13</root>
-            <name>+</name>
+            <root>17</root>
+            <name>7</name>
             <eid>/tEK9MDX9fM_oKbDxk7/GFI</eid>
             </Harmony>
           <Chord>
@@ -1557,6 +1557,7 @@
         <voice>
           <Harmony>
             <root>17</root>
+            <name>7</name>
             <eid>87+vejvtVi_6UiBz+jXnVM</eid>
             </Harmony>
           <Chord>
@@ -2729,6 +2730,7 @@
         <voice>
           <Harmony>
             <root>17</root>
+            <name>7</name>
             <eid>is88hRH5H6L_xP0uTQR/12E</eid>
             </Harmony>
           <Chord>

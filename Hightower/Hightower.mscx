@@ -322,9 +322,13 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>nUbVqr/G13M_9SE3m4Jy+4G</eid>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                <eid>UEjR0RP4CIJ_giiBM1j0nDB</eid>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <tpc2>24</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -367,9 +371,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>Gw5AWdLYZKJ_tpZGJ423/CD</eid>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <tpc2>24</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1813,9 +1817,13 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>xvdOX5nMzGB_Wc5MMokVAcM</eid>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                <eid>OqeD4jtz69H_eqBFlyxzG0D</eid>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <tpc2>24</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1858,9 +1866,9 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>OEasg2BL2lG_o0eTT2bnlwH</eid>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              <tpc2>24</tpc2>
               </Note>
             </Chord>
           <Chord>

@@ -1043,6 +1043,11 @@
               <tpc2>20</tpc2>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            <name>7</name>
+            <eid>tvvLghe4yYF_3nbtp/xOB4L</eid>
+            </Harmony>
           <Chord>
             <eid>pf5SH16sNMH_gUzBP8P2oxO</eid>
             <durationType>eighth</durationType>
@@ -1064,10 +1069,10 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>eK0f2o0rI0N_huyjsfP94QI</eid>
+            <eid>F0+xhBGuB/B_5o8fZV5UBsE</eid>
             <durationType>eighth</durationType>
             <Note>
-              <eid>KkcfIy17siP_NWj1doTDoZF</eid>
+              <eid>AfBLYqmGGLC_OJ5UwqXxA5H</eid>
               <pitch>60</pitch>
               <tpc>14</tpc>
               <tpc2>16</tpc2>
@@ -1078,17 +1083,6 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>Untjw/5FgWH_/7io8uJ9NuJ</eid>
-              <Spanner type="Tie">
-                <Tie>
-                  <eid>QXQttEtghQK_1mKy4zpS/fM</eid>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    <fractions>-7/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>60</pitch>
               <tpc>14</tpc>
               <tpc2>16</tpc2>
@@ -1109,14 +1103,6 @@
             <durationType>half</durationType>
             <Note>
               <eid>1vOurbJxB7J_V1j88zZixaC</eid>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    <fractions>7/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>60</pitch>
               <tpc>14</tpc>
               <tpc2>16</tpc2>
@@ -1405,8 +1391,8 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>21</root>
-            <name>0</name>
+            <root>18</root>
+            <name>-7</name>
             <eid>DFoPvRkbSyO_ky+Sgnx5MlC</eid>
             </Harmony>
           <Rest>
@@ -1477,6 +1463,11 @@
       <Measure>
         <eid>urgb9Pxqid_LZMJNZIvVrB</eid>
         <voice>
+          <Harmony>
+            <root>20</root>
+            <name>7</name>
+            <eid>kk+W1y1kfHD_mR1WJ7zKf+E</eid>
+            </Harmony>
           <Chord>
             <eid>fx3u0CV6AdM_ASZxbbaeFoJ</eid>
             <durationType>half</durationType>
@@ -1506,6 +1497,7 @@
         <voice>
           <Harmony>
             <root>15</root>
+            <name>7</name>
             <eid>xQD1NKKfdnN_ltQpxkFUILM</eid>
             </Harmony>
           <Chord>
@@ -1539,7 +1531,8 @@
         <eid>Gi4ZBotqERM_hAb5BHl8aN</eid>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>21</root>
+            <name>-7</name>
             <eid>7yL/6VWl1jL_HIyy4e0cEpJ</eid>
             </Harmony>
           <Chord>
@@ -1563,8 +1556,8 @@
               </Note>
             </Chord>
           <Harmony>
-            <root>21</root>
-            <name>0</name>
+            <root>20</root>
+            <name>7</name>
             <eid>0S72MZeR2+O_PUfPfW1HkQP</eid>
             </Harmony>
           <Chord>
@@ -1607,7 +1600,8 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>17</root>
+            <root>19</root>
+            <name>-7</name>
             <eid>nEyXgOS3nFO_Exyz48yhVfH</eid>
             </Harmony>
           <Chord>
@@ -1630,11 +1624,6 @@
               <tpc2>20</tpc2>
               </Note>
             </Chord>
-          <Harmony>
-            <root>17</root>
-            <name>7</name>
-            <eid>B/AFg4zch0C_V0XOhOnlFgD</eid>
-            </Harmony>
           <Chord>
             <eid>PuJzpu29cTI_+oLPqVaPwIH</eid>
             <durationType>eighth</durationType>
@@ -1700,6 +1689,7 @@
             </RehearsalMark>
           <Harmony>
             <root>18</root>
+            <name>-7</name>
             <eid>IYMFMH+CXVG_LTXwgSZGoxF</eid>
             </Harmony>
           <Chord>
@@ -1730,7 +1720,7 @@
         <eid>6Wvcdo6yuhD_j3ZyBGvICVP</eid>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>24</root>
             <eid>xZbwii9CAjP_ejSZGHRdeUP</eid>
             </Harmony>
           <Chord>
@@ -1753,6 +1743,11 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            <name>7</name>
+            <eid>GIpiIAlNItL_miH2Cjh/97H</eid>
+            </Harmony>
           <Chord>
             <eid>UJH+uL2TFwM_TnCK8t5fBeN</eid>
             <durationType>quarter</durationType>
@@ -1800,8 +1795,7 @@
         <eid>eR8frq1DTuO_HK0T+QmCuSH</eid>
         <voice>
           <Harmony>
-            <root>21</root>
-            <name>0</name>
+            <root>16</root>
             <eid>vY789gOXqhK_vzfoaYTjsCO</eid>
             </Harmony>
           <Chord>
@@ -1835,6 +1829,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <eid>TICdos4MlnN_KS09H8R1kDM</eid>
+            </Harmony>
           <Chord>
             <eid>EG08DS0XyXO_+ASknaEFCxO</eid>
             <durationType>quarter</durationType>
@@ -1905,6 +1903,11 @@
       <Measure>
         <eid>tR05a3u+xXD_MISnUqBUb4M</eid>
         <voice>
+          <Harmony>
+            <root>21</root>
+            <name>07</name>
+            <eid>lKqjwWjYgqI_iWdF5Ck7i5N</eid>
+            </Harmony>
           <Chord>
             <eid>78sJUMdWmDE_RE0E8dQQ3H</eid>
             <durationType>half</durationType>
@@ -1932,6 +1935,11 @@
       <Measure>
         <eid>A1V21GGMEYJ_782a2wEsZ3G</eid>
         <voice>
+          <Harmony>
+            <root>20</root>
+            <name>7</name>
+            <eid>LNSTDdaAKbL_F/UMdsM5nwN</eid>
+            </Harmony>
           <Chord>
             <eid>R1tTq2Z4MYI_ZijrlyOthNJ</eid>
             <durationType>eighth</durationType>
@@ -1962,6 +1970,11 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            <name>7</name>
+            <eid>DEILjNi/Z+G_EQlIH1tnVSF</eid>
+            </Harmony>
           <Chord>
             <eid>jewLTksntFJ_+jWq9hkb1ON</eid>
             <durationType>quarter</durationType>
@@ -2008,6 +2021,11 @@
       <Measure>
         <eid>AKvtdkjFicB_tuh20EvSye</eid>
         <voice>
+          <Harmony>
+            <root>19</root>
+            <name>-</name>
+            <eid>wHjMKpW0vM_uP7dhwKVIxP</eid>
+            </Harmony>
           <Chord>
             <eid>dd2Obsxbv/J_BJ4UTo9CfNG</eid>
             <durationType>quarter</durationType>
@@ -2313,8 +2331,8 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>21</root>
-            <name>0</name>
+            <root>18</root>
+            <name>-7</name>
             <eid>1ER1Ek1cqX_qayfBNPfoBD</eid>
             </Harmony>
           <Rest>
@@ -2385,6 +2403,11 @@
       <Measure>
         <eid>bjz6eCc/BXO_0vuVAXMObOL</eid>
         <voice>
+          <Harmony>
+            <root>20</root>
+            <name>7</name>
+            <eid>gu0K0fB1H+C_gEMrc/R4j5</eid>
+            </Harmony>
           <Chord>
             <eid>VvNwkKiJRvN_qzXKCLSs5rG</eid>
             <durationType>half</durationType>
@@ -2414,6 +2437,7 @@
         <voice>
           <Harmony>
             <root>15</root>
+            <name>7</name>
             <eid>EJvC2BrXlaM_EuY1n0CNNLH</eid>
             </Harmony>
           <Chord>
@@ -2447,7 +2471,8 @@
         <eid>Qh4I+QcCP4D_DBehHNwYWIE</eid>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>21</root>
+            <name>-7</name>
             <eid>130isxoJION_fjN3O1w8toJ</eid>
             </Harmony>
           <Chord>
@@ -2471,8 +2496,8 @@
               </Note>
             </Chord>
           <Harmony>
-            <root>21</root>
-            <name>0</name>
+            <root>20</root>
+            <name>7</name>
             <eid>Mh+5UNhWHVH_bwp4GmSXL4L</eid>
             </Harmony>
           <Chord>

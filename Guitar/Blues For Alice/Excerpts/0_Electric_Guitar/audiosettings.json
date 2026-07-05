@@ -1,0 +1,12 @@
+{
+    "tracks": [
+        {
+            "instrumentId": "electric-guitar",
+            "partId": "1",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        }
+    ]
+}

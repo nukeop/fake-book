@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="Blues For Alice.mscx"/>
+    <rootfile full-path="Excerpts/0_Electric_Guitar/0_Electric_Guitar.mss"/>
+    <rootfile full-path="Excerpts/0_Electric_Guitar/0_Electric_Guitar.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Electric_Guitar/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Electric_Guitar/audiosettings.json"/>
+    </rootfiles>
+  </container>

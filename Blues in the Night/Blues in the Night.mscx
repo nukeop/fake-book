@@ -1250,6 +1250,11 @@
             <frameRound>32</frameRound>
             <text>B</text>
             </RehearsalMark>
+          <Harmony>
+            <root>15</root>
+            <name>6</name>
+            <eid>zgGJzyOqIHF_vaem/hpbfqN</eid>
+            </Harmony>
           <Chord>
             <eid>18eZxh6zwJK_TF37aCbtMED</eid>
             <dots>1</dots>
@@ -1316,6 +1321,11 @@
       <Measure>
         <eid>70iyy25sSYI_9/QeMg/tFmF</eid>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>7</name>
+            <eid>efH15CefFlN_WFOrhc/4c9J</eid>
+            </Harmony>
           <Chord>
             <eid>uZKort/t44B_w6qZGFsdcoJ</eid>
             <dots>1</dots>
@@ -1386,6 +1396,11 @@
       <Measure>
         <eid>5GRbutTCWvB_oEcl14gLpYF</eid>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>6</name>
+            <eid>RbQ3e3S8wDL_VhzrJqdJxQE</eid>
+            </Harmony>
           <Chord>
             <eid>Jkbwz5Fyl+F_g5xqoEBF1QO</eid>
             <durationType>eighth</durationType>
@@ -1457,6 +1472,11 @@
       <Measure>
         <eid>U9n4HR5pUNN_d3J6t6fw7dJ</eid>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>6</name>
+            <eid>XAuWesJVceK_URJ2kDACw0C</eid>
+            </Harmony>
           <Tuplet>
             <eid>Esx+h9FE0SN_UhTupp4l02G</eid>
             <normalNotes>2</normalNotes>
@@ -1528,6 +1548,11 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
+          <Harmony>
+            <root>21</root>
+            <name>7#11</name>
+            <eid>/QqoM12GqIN_NZHZeDiNbGO</eid>
+            </Harmony>
           <Chord>
             <eid>jZQYbJF7HEE_LxH/7yDbjSC</eid>
             <durationType>quarter</durationType>
@@ -1554,6 +1579,11 @@
       <Measure>
         <eid>3ZKBrzhZHsM_eE2k5/xeSKC</eid>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>7</name>
+            <eid>zq1EsiamdkN_1kU1KNPLkUP</eid>
+            </Harmony>
           <Chord>
             <eid>nGLzhVhkVOG_9hrX4Ke4YYI</eid>
             <dots>1</dots>
@@ -1624,6 +1654,11 @@
       <Measure>
         <eid>6I9d+zq91pE_1Ins4OGj1AJ</eid>
         <voice>
+          <Harmony>
+            <root>11</root>
+            <name>13</name>
+            <eid>KOoLxQ9UPkC_TBz4V40jfOK</eid>
+            </Harmony>
           <Chord>
             <eid>OzDFVpJBM8K_OgjVOT8TepN</eid>
             <dots>1</dots>
@@ -1645,6 +1680,11 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
+          <Harmony>
+            <root>16</root>
+            <name>7#5</name>
+            <eid>ijujbKgF4JE_jPXn73i4dgH</eid>
+            </Harmony>
           <Chord>
             <eid>QrhYA65Fe2D_6/z/Hn2ig0D</eid>
             <durationType>eighth</durationType>
@@ -1698,6 +1738,11 @@
       <Measure>
         <eid>rNT4dTFPTjM_6WF1kL3YxsF</eid>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>6</name>
+            <eid>9w22TERjXrD_LfdgxhqZTrK</eid>
+            </Harmony>
           <Chord>
             <eid>NUmu5dFsahP_MlkOfDhW6hE</eid>
             <durationType>eighth</durationType>
@@ -1902,6 +1947,11 @@
       <Measure>
         <eid>o9Z30AgVEfI_xro+0jdNU9E</eid>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>7</name>
+            <eid>F+RuD1ucs3_H0seGGEU+NP</eid>
+            </Harmony>
           <Tuplet>
             <eid>decqcbogeSL_nRiyhqtgAeN</eid>
             <normalNotes>2</normalNotes>
@@ -2013,6 +2063,11 @@
       <Measure>
         <eid>oT2iwu0dzd_fN+zRcyeyxN</eid>
         <voice>
+          <Harmony>
+            <root>11</root>
+            <name>9</name>
+            <eid>kkW7QPUMZ9N_F6DHxDYe+RC</eid>
+            </Harmony>
           <Tuplet>
             <eid>Qdv3IejrIoF_D6Y2RDdGwlO</eid>
             <normalNotes>2</normalNotes>
@@ -2078,6 +2133,11 @@
               <tpc2>15</tpc2>
               </Note>
             </Chord>
+          <Harmony>
+            <root>16</root>
+            <name>7#9</name>
+            <eid>LW+7lMhxOfC_ocmmOvXxIgB</eid>
+            </Harmony>
           <Tuplet>
             <eid>EjVG6rhADdL_/tWRdvQ8taE</eid>
             <normalNotes>2</normalNotes>
@@ -2148,6 +2208,11 @@
       <Measure>
         <eid>py3qjM0loWM_MzOOnxed3kG</eid>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>7</name>
+            <eid>quT4lCLu3uJ_Zru/1UFhULH</eid>
+            </Harmony>
           <Chord>
             <eid>3uJgZn2ol6E_n+1J6du5uuL</eid>
             <durationType>eighth</durationType>

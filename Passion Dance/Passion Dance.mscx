@@ -97,7 +97,7 @@
             <eid>+Kn/GHzlvXP_xK0qZI6kY9G</eid>
             <family>Edwin</family>
             <offset x="-7.05882" y="-4.78667"/>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 220</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 220</text>
             </Tempo>
           <Rest>
             <eid>OLDtU82GYeJ_QOX5ahz4FzC</eid>
@@ -616,6 +616,7 @@
             <eid>XAgsr1Y3J9D_hggOjTdE7k</eid>
             <concertKey>-5</concertKey>
             <actualKey>-3</actualKey>
+            <showCourtesySig>0</showCourtesySig>
             </KeySig>
           <Harmony>
             <root>9</root>

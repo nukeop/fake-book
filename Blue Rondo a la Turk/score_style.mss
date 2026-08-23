@@ -3,9 +3,9 @@
   <Style>
     <pageWidth>8.27</pageWidth>
     <pageHeight>11.69</pageHeight>
-    <pagePrintableWidth>7.4826</pagePrintableWidth>
-    <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-    <pageOddLeftMargin>0.393701</pageOddLeftMargin>
+    <pagePrintableWidth>7.8763</pagePrintableWidth>
+    <pageEvenLeftMargin>0.19685</pageEvenLeftMargin>
+    <pageOddLeftMargin>0.19685</pageOddLeftMargin>
     <pageEvenTopMargin>0.393701</pageEvenTopMargin>
     <pageEvenBottomMargin>0.393701</pageEvenBottomMargin>
     <pageOddTopMargin>0.393701</pageOddTopMargin>

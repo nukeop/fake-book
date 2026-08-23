@@ -117,7 +117,7 @@
             <followText>1</followText>
             <eid>+lPyKb6/tGH_5d/rSEXhFfG</eid>
             <family>Edwin</family>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 200</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 200</text>
             </Tempo>
           <Chord>
             <eid>X6ETld7M1OJ_ADZpkZfQmBL</eid>
@@ -410,9 +410,9 @@
       <Measure>
         <eid>p++wcr2B/eJ_lbzb44Tz92K</eid>
         <endRepeat>2</endRepeat>
-        <stretch>0</stretch>
+        <stretch>1.3</stretch>
         <LayoutBreak>
-          <eid>9fXf3u/X+ME_tv9moy06NKN</eid>
+          <eid>2raj5bJPR8_RDMBmSrppBJ</eid>
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
@@ -3556,7 +3556,7 @@
             <followText>1</followText>
             <eid>wvn8F5gYbgI_lB3WCUWk3pD</eid>
             <family>Edwin</family>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 130</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 130</text>
             </Tempo>
           <Tuplet>
             <eid>b8za7rQgp0P_2MNK6uNKrWI</eid>
@@ -4503,13 +4503,9 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>4pHX9PhCjYM_06YeyWvPGgC</eid>
-              <Accidental>
-                <subtype>accidentalDoubleSharp</subtype>
-                <eid>19ofBXaONpN_lFzICnlKclP</eid>
-                </Accidental>
               <pitch>48</pitch>
-              <tpc>26</tpc>
-              <tpc2>28</tpc2>
+              <tpc>14</tpc>
+              <tpc2>16</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -4523,7 +4519,7 @@
               <eid>IauYzTPrcsG_UnXjNjAolEH</eid>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>VT91KpGmqeD_2dGNYecXX3F</eid>
+                <eid>9gQ3LzOZc/J_NUmH3lNfeT</eid>
                 </Accidental>
               <pitch>49</pitch>
               <tpc>21</tpc>

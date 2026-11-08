@@ -1908,8 +1908,22 @@
             </Harmony>
           <Rest>
             <eid>bcrfumN0JyB_wX5t5i8JnqN</eid>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             </Rest>
+          <Rest>
+            <eid>raeKU7kFGuK_5yB5Fl2TIDH</eid>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <eid>jRFJwyRW+4P_7MoTss/9bkM</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>8yt9+Me715E_0tEDlmyZgjM</eid>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -2066,8 +2080,18 @@
             </Chord>
           <Rest>
             <eid>iOpclPwqzFG_AAZlrwfSj6N</eid>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
+          <Chord>
+            <eid>VEcz8DdGK3C_teEJ6mMZdhN</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>ZrIDjvzpj/K_nn6S0kX8+yM</eid>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
